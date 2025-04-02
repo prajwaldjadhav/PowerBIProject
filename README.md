@@ -3,7 +3,7 @@
 This repository contains a Power BI project that includes data visualization and insights.
 
 ## 📊 Dashboard Screenshot
-![Dashboard Preview](C:\Users\jadha\Pictures\Screenshots\dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## 📂 Project Files
 - `dashboard.pbix` → Power BI project file.
