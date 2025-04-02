@@ -3,7 +3,8 @@
 This repository contains a Power BI project that includes data visualization and insights.
 
 ## 📊 Dashboard Screenshot
-![Dashboard Preview]("dashboard.png")
+![Dashboard Preview](https://raw.githubusercontent.com/prajwaldjadhav/PowerBIProject/main/dashboard.png)
+
 
 ## 📂 Project Files
 - `dashboard.pbix` → Power BI project file.
